@@ -3,5 +3,5 @@
 #in this project I have used react.js and for styling css
 
 
-#to use this app to install packages run:    npm install 
+#to use this app  install packages run:    npm install 
 and then npm start
